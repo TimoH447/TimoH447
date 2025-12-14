@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Header](./github-header-banner(1).png)
 <!--
 **TimoH447/TimoH447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
